@@ -42,7 +42,7 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn"/>
 
 </p>
 
@@ -93,16 +93,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=akash-cg&theme=tokyonight&row=1&column=7"/>
-
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 <p>
@@ -116,3 +106,4 @@
 </p>
 
 ---
+## Stay Awesome!
