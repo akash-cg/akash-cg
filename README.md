@@ -2,11 +2,9 @@
 
 🎓 M.Sc. Data Science and B.E. Electrical & Electronics Engineering graduate from BITS Pilani
 
-💻 Passionate about Data Analytics, AI, and Machine Learning
+📊 Passionate about Data Analytics, AI, and Machine Learning
 
-🧠 Learning SQL, Data Engineering, and Cloud Technologies
-
-🚀 Interested in solving real-world business problems using data
+🎯 Bridging the gap between technology, analytics, and business strategy
 
 💻 Here to have some fun with tech!
 
