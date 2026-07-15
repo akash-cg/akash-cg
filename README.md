@@ -1,7 +1,5 @@
 ## Hellooo, I'm Akash! 👋
 
----
-
 🎓 Data Science and Engineering graduate from BITS Pilani
 
 💻 Passionate about Data Analytics, AI, and Machine Learning
