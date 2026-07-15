@@ -31,7 +31,7 @@
 and more!
 
 
-## 🌐 Connect with Me on
+## 🌐 Connect With Me On
 
 <p>
 
