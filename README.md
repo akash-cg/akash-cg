@@ -1,16 +1,6 @@
-# Hi there 👋 I'm Akash Ghosh
-
-<h3 align="center">
-Data Analytics • Data Science • Machine Learning • AI
-</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Data+Analytics+Enthusiast;Power+BI+Developer;SQL+Developer;Machine+Learning+Engineer;Always+Learning+New+Things" />
-</p>
+## Hellooo, I'm Akash! 👋
 
 ---
-
-## 👨‍💻 About Me
 
 🎓 Data Science and Engineering graduate from BITS Pilani
 
@@ -83,7 +73,7 @@ Data Analytics • Data Science • Machine Learning • AI
 ---
 
 
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
 
@@ -95,7 +85,7 @@ Data Analytics • Data Science • Machine Learning • AI
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
 
@@ -105,7 +95,7 @@ Data Analytics • Data Science • Machine Learning • AI
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
 
@@ -115,7 +105,7 @@ Data Analytics • Data Science • Machine Learning • AI
 
 ---
 
-# 🌐 Connect with Me
+## 🌐 Connect with Me
 
 <p>
 
@@ -128,5 +118,3 @@ Data Analytics • Data Science • Machine Learning • AI
 </p>
 
 ---
-
-⭐ Thanks for visiting my profile!
