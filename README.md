@@ -8,6 +8,7 @@
 
 💻 Here to have some fun with tech!
 
+---
 
 ## 💻 Creating & Learning With
 
@@ -45,12 +46,15 @@
 
 and more!
 
+---
 
 ## 🌌 Fun Facts
 
 - I’m fascinated by **astronomy and astrophysics** 🌠
 - **Music keeps me inspired—playing the guitar** is one of my favorite hobbies 🎸
 - Always **curious**. Always **building** 🚀
+
+---
 
 ## 🌐 Connect With Me On
 
@@ -63,5 +67,7 @@ and more!
 </a>
 
 </p>
+
+---
 
 ## Stay Awesome!
