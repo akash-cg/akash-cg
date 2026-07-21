@@ -1,20 +1,20 @@
-## Hellooo, I'm Akash! 👋
+# Hellooo, I'm Akash! 👋
 
-🎓 M.Sc. Data Science and B.E. Electrical & Electronics Engineering graduate from BITS Pilani
+🎓 **M.Sc. Data Science and B.E. Electrical & Electronics Engineering graduate from BITS Pilani**
 
-📊 Passionate about Data Analytics, AI, and Machine Learning
+📊 **Passionate about Data Analytics, AI, and Machine Learning**
 
-🎯 Bridging the gap between technology, analytics, and business strategy
+🎯 **Bridging the gap between technology, analytics, and business strategy**
 
-💻 Here to have some fun with tech!
+💻 **Here to have some fun with tech!**
 
 ---
 
 ## 💻 Creating & Learning With
 
-### 🧪 Programming Languages
+### 👨🏻‍💻 Programming Languages
 
-![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -52,7 +52,7 @@ and more!
 
 - I’m fascinated by **astronomy and astrophysics** 🌠
 - **Music keeps me inspired—playing the guitar** is one of my favorite hobbies 🎸
-- Always **curious**. Always **building** 🚀
+- Always **learning**. Always **building**. Always **curious** 🚀
 
 ---
 
@@ -70,4 +70,4 @@ and more!
 
 ---
 
-## Stay Awesome!
+## Stay Awesome! 💙
